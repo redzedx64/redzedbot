@@ -60,8 +60,8 @@ def Encrypt_ID(id):
 ####################################
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 ####################################
-username = "username"
-password = "password"
+username = "bot"
+password = "bot"
 SOCKS5_VERSION = 5
 server_list = []
 op = None
